@@ -1,10 +1,17 @@
 - # Sobre mim
-- 👋 Olá, meu nome é @esthersalomaosantana
-- :+1: meu email de contato é santana.esther@escola.pr.gov.br
-- 👀 eu estou interessado em aprender a programar novas linguagens.
-- 🌱 eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá, Meu nome é @esthersalomaosantana
+- :+1: Meu email de contato é santana.esther@escola.pr.gov.br
+- 👀 Eu estou interessado em aprender a programar novas linguagens.
+- 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
+- :school: Estudo no Colégio Antonio Iglésias
+- :musical_note: Gosto de ouvir músicas.
+- :film_projector: Gosto de assistir filmes.
+- :iphone: Amo a cultura Pop e Geek.
+- :books: Às vezes leio algum livro.
+- :chocolate_bar: Amo chocolate!
+- :zap: Gosto muito da Marvel.
+- 
+
 
 <!---
 esthersalomaosantana/esthersalomaosantana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
